@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/movies-info-app/static/css/main.c0fa3f04.chunk.css",
+    "main.js": "/movies-info-app/static/js/main.abe59aa6.chunk.js",
+    "main.js.map": "/movies-info-app/static/js/main.abe59aa6.chunk.js.map",
+    "runtime-main.js": "/movies-info-app/static/js/runtime-main.42b9dd11.js",
+    "runtime-main.js.map": "/movies-info-app/static/js/runtime-main.42b9dd11.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/movies-info-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.0d6111d8.chunk.js": "/movies-info-app/static/js/2.0d6111d8.chunk.js",
+    "static/js/2.0d6111d8.chunk.js.map": "/movies-info-app/static/js/2.0d6111d8.chunk.js.map",
+    "index.html": "/movies-info-app/index.html",
+    "precache-manifest.a41037ace185e39879d5b39ee682c31b.js": "/movies-info-app/precache-manifest.a41037ace185e39879d5b39ee682c31b.js",
+    "service-worker.js": "/movies-info-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/movies-info-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.c0fa3f04.chunk.css.map": "/movies-info-app/static/css/main.c0fa3f04.chunk.css.map",
+    "static/js/2.0d6111d8.chunk.js.LICENSE.txt": "/movies-info-app/static/js/2.0d6111d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42b9dd11.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.0d6111d8.chunk.js",
+    "static/css/main.c0fa3f04.chunk.css",
+    "static/js/main.abe59aa6.chunk.js"
+  ]
+}
